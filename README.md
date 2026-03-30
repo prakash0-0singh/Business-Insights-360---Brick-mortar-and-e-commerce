@@ -1,6 +1,4 @@
-
-
-# Business Insights 360
+# Business Insights 360 - Brick & mortar and e-commerce
 
 ## Project Overview
 
